@@ -1,5 +1,5 @@
 # Match-Bat-Prediction-Software-Python-
-It is a match Bat prediction software build in python.
+It is a player prediction software build in python.
 
 ## Required Soft/Lib to run the file:
 <ul>
